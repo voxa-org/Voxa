@@ -1,6 +1,6 @@
 # Voxa
 
-Voxa is a sleek, lightweight, native macOS Discord client built using SwiftUI. Designed for speed, efficiency, and a modern user experience, it brings the best of Discord to your Mac in a fully optimized package.
+Voxa is a sleek, lightweight, native (WebKit) macOS Discord client built using SwiftUI. Designed for speed, efficiency, and a modern user experience, it brings the best of Discord to your Mac in a fully optimized package.
 
 ## This project is currently not functioning for users with the new Discord UI until the next release.
 
@@ -20,7 +20,7 @@ https://voxa.peril.lol
 
 ## Key Features
 
-- **Native macOS Experience:** Built with SwiftUI, Voxa integrates seamlessly with macOS features for a polished and fast user interface.
+- **Native macOS Experience:** Built with SwiftUI & WebKit, Voxa integrates seamlessly with macOS features for a polished and fast user interface.
 - **Performance-Focused:** Lightweight design ensures low resource usage and high responsiveness.
 - **Customizable Interface:** Modify appearance with custom CSS and theming.
 - **Advanced Window Management:** Resizable and draggable windows with transparency and aesthetic layouts.
